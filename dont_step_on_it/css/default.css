@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	padding:0;	
+}
+
+#wrap {
+	width:100%;
+	height:0px;	
+	position:absolute;
+	min-width:500px;
+	margin:0;
+	padding:0;
+}
+
+#outter {
+	width:498px;
+	height:498px;
+	margin:80px auto;
+	border:1px solid #333;
+	padding:2px;
+	background:#cff;
+	position:relative;
+}
+
+#time_show {
+	width:100%;
+	height:30px;
+	background:#f33;
+	text-align:center;
+	float:left;
+}
+
+div {
+	-moz-box-shadow:0 0 4px #666;
+	-webkit-box-shadow:0 0 4px #666;
+	-o-box-shadow:0 0 4px #666;
+	box-shadow:0 0 4px #666;	
+}
+
+
+/******/
+
+.divs {
+	-webkit-transition:all 0.4s ease;
+	-moz-transition:all 0.4s ease;
+	-o-transition:all 0.4s ease;
+	transition:all 0.4s ease;	
+}
+
+.div4 {
+	width:241px;
+	height:241px;
+	background:#f33;
+	float:left;
+	margin:4px;
+}
+
+.div9 {
+	width:160px;
+	height:160px;
+	background:#3f3;
+	float:left;
+	margin:3px;	
+}
+
+.div16 {
+	width:120px;
+	height:120px;
+	background:#c23;
+	float:left;
+	margin:2px;	
+}
+
+.div25 {
+	width:95px;
+	height:95px;
+	background:yellow;
+	float:left;
+	margin:2px;	
+}
+
+.div36 {
+	width:79px;
+	height:79px;
+	background:green;
+	float:left;
+	margin:2px;	
+}
+
+.div49 {
+	width:67px;
+	height:67px;
+	background:blue;
+	float:left;
+	margin:2px;	
+}
+
+.different {
+		
+}
